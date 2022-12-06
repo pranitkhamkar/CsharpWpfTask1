@@ -23,6 +23,7 @@ namespace CsharpWpfTask1
 		public MainWindow()
 		{
 			InitializeComponent();
+			Console.WriteLine("Hello");
 		}
 	}
 }
