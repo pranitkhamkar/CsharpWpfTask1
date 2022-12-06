@@ -24,6 +24,7 @@ namespace CsharpWpfTask1
 		{
 			InitializeComponent();
 			Console.WriteLine("Hello");
+			Console.WriteLine("Pranit");
 		}
 	}
 }
